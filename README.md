@@ -1,4 +1,7 @@
-# Movie-Datastory
+# What can we find out from the movie data?
+Hao Liu
+(hl3n22@soton.ac.uk/33370249)
+
 Southampton Data Visualization Coursework-Tableau
 
 # I.	DATA STORY SUMMARY  
