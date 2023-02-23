@@ -2,7 +2,7 @@
 Hao Liu
 (hl3n22@soton.ac.uk/33370249)
 
-Southampton Data Visualization Coursework-Tableau
+Southampton Data Visualization Coursework-Tableau (Score: 57/80)
 
 # I.	DATA STORY SUMMARY  
 Data story is a beautiful and engaging work of art. Completing a perfect and fascinating data story is something to be proud of, so please follow me into the movie data story. The topic is movie data analysis, including which types of movies are more popular from the last century to the present? How do movies based on novels perform compared to non-fiction movies? Who is the best director and so on. Data story interface is shown in Figure 1.1.
